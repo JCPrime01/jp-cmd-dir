@@ -15,14 +15,14 @@ export default async function handler(req, res) {
     "https://chat.whatsapp.com/FqEu31mnpWg1sb8p1obh68", // comunidade 2
     "https://chat.whatsapp.com/IZNGcTD7uuq2M1cfB7FLlR", // comunidade 3
     "https://chat.whatsapp.com/EzadtmN5alqFfcBHOgK8Ji",  // comunidade 4
-    "https://chat.whatsapp.com/EoLhmmeiQpGAHQ1yU9CW7A", // comunidade 104
-    "https://chat.whatsapp.com/JhDM8UdeHQg8pxIm0ywl80", // comunidade 105
-    "https://chat.whatsapp.com/EafpD39fayIIyRjOCC6Pfk",  // comunidade 106
-    "https://chat.whatsapp.com/BaFz3FnnxTb3Dbd9c3r7Wm", // comunidade 107
-    "https://chat.whatsapp.com/KSJPKfTD7tvKAL0SrorOZp", // comunidade 131
-    "https://chat.whatsapp.com/HdxZGcDeTd0KKnLrvjLjHS", // comunidade 109
+    "https://chat.whatsapp.com/Ea2p8OYZgt4DoWPwz3ZMlp",  // comunidade 116
+    "https://chat.whatsapp.com/B6Es7ZNDrMwDQlC0umX9r4",  // comunidade 123
+    "https://chat.whatsapp.com/Dj3sIHPZ5Xh6yrRefve9nj",  // comunidade 137
+    "https://chat.whatsapp.com/JBrIq1ugFTYAw2yerGpSej",  // comunidade 124
+    "https://chat.whatsapp.com/G9eJEmWYYn6DBLYmC1dXWp",  // comunidade 120
+    "https://chat.whatsapp.com/GDDdSUoO9LL9bKsZEGFPtM",  // comunidade 134
     "https://chat.whatsapp.com/EAogaedZmUQ5X7C9uFh6V2",  // comunidade 713
-    "https://chat.whatsapp.com/HX8Eh87WZ7h6cwMqnsNQmm", // comunidade 714
+    "https://chat.whatsapp.com/HX8Eh87WZ7h6cwMqnsNQmm",  // comunidade 714
     "https://chat.whatsapp.com/J8jqLjlVCwZAJIqNWR7Yr0",  // comunidade 715
     "https://chat.whatsapp.com/FQH4sVDKle6DRxM8qHTHV5",  // comunidade 716
     "https://chat.whatsapp.com/EklvDccWc2pK5zgXvKBTtz",  // comunidade 718
