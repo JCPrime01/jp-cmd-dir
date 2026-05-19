@@ -11,21 +11,23 @@ export default async function handler(req, res) {
     return;
   }
   const links = [
-    "https://chat.whatsapp.com/EJm8Xu09IQC8g2pMeiehro", // comunidade 1
-    "https://chat.whatsapp.com/FqEu31mnpWg1sb8p1obh68", // comunidade 2
-    "https://chat.whatsapp.com/IZNGcTD7uuq2M1cfB7FLlR", // comunidade 3
-    "https://chat.whatsapp.com/EzadtmN5alqFfcBHOgK8Ji",  // comunidade 4
-    "https://chat.whatsapp.com/Ea2p8OYZgt4DoWPwz3ZMlp",  // comunidade 116
-    "https://chat.whatsapp.com/B6Es7ZNDrMwDQlC0umX9r4",  // comunidade 123
-    "https://chat.whatsapp.com/Dj3sIHPZ5Xh6yrRefve9nj",  // comunidade 137
-    "https://chat.whatsapp.com/JBrIq1ugFTYAw2yerGpSej",  // comunidade 124
-    "https://chat.whatsapp.com/G9eJEmWYYn6DBLYmC1dXWp",  // comunidade 120
-    "https://chat.whatsapp.com/GDDdSUoO9LL9bKsZEGFPtM",  // comunidade 134
-    "https://chat.whatsapp.com/EAogaedZmUQ5X7C9uFh6V2",  // comunidade 713
-    "https://chat.whatsapp.com/HX8Eh87WZ7h6cwMqnsNQmm",  // comunidade 714
-    "https://chat.whatsapp.com/J8jqLjlVCwZAJIqNWR7Yr0",  // comunidade 715
-    "https://chat.whatsapp.com/FQH4sVDKle6DRxM8qHTHV5",  // comunidade 716
-    "https://chat.whatsapp.com/EklvDccWc2pK5zgXvKBTtz",  // comunidade 718
+    // CMD Nina
+    "https://chat.whatsapp.com/FjGKrV4RtSF1e46l8y7wKo", // 126
+    "https://chat.whatsapp.com/DIhVtELmVEU6ho9vMCHGa5", // 127
+    "https://chat.whatsapp.com/L4C6Px6oO4wLoHfXJXUnlz", // 128
+    "https://chat.whatsapp.com/LskY7BSLMpK8lAChFrhocj", // 130
+    "https://chat.whatsapp.com/KSJPKfTD7tvKAL0SrorOZp", // 131
+    "https://chat.whatsapp.com/J0EJOr4j6Nx51Vmaw1CEiY", // 132
+    // Direto
+    "https://chat.whatsapp.com/EJm8Xu09IQC8g2pMeiehro", // 117
+    "https://chat.whatsapp.com/EJm8Xu09IQC8g2pMeiehro", // 108
+    "https://chat.whatsapp.com/EzadtmN5alqFfcBHOgK8Ji", // 121
+    // Kito
+    "https://chat.whatsapp.com/FJ6NRIEk68wIrV7JqBURwB", // 717
+    "https://chat.whatsapp.com/E5fJrEdInTVDRokWQVbrlp", // 718
+    "https://chat.whatsapp.com/CfLQBUDwJgc8CHLl1rdEVZ", // 723
+    "https://chat.whatsapp.com/J2GpbQxHz0kIUNucMemKTq", // 722
+    "https://chat.whatsapp.com/C9Kf9cqkfLXIr3n9YNfsQx", // 724
   ];
   const link = links[Math.floor(Math.random() * links.length)];
   res.writeHead(302, { Location: link });
