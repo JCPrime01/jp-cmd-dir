@@ -23,7 +23,6 @@ export default async function handler(req, res) {
     "https://chat.whatsapp.com/EJm8Xu09IQC8g2pMeiehro", // 108
     "https://chat.whatsapp.com/EzadtmN5alqFfcBHOgK8Ji", // 121
     // Kito
-    "https://chat.whatsapp.com/FJ6NRIEk68wIrV7JqBURwB", // 717
     "https://chat.whatsapp.com/E5fJrEdInTVDRokWQVbrlp", // 718
     "https://chat.whatsapp.com/CfLQBUDwJgc8CHLl1rdEVZ", // 723
     "https://chat.whatsapp.com/J2GpbQxHz0kIUNucMemKTq", // 722
